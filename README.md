@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Allan Ojwang</h1>
 <h3 align="center">A passionate Software developer from Kenya</h3>
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ojwang) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_Ojwang_) 
 
